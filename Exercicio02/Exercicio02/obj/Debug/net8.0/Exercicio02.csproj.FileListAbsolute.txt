@@ -1,0 +1,14 @@
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.exe
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.deps.json
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.runtimeconfig.json
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.dll
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.pdb
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfoInputs.cache
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfo.cs
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.csproj.CoreCompileInputs.cache
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.dll
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\obj\Debug\net8.0\refint\Exercicio02.dll
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.pdb
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.genruntimeconfig.cache
+C:\estudos-dotnet\Udemy\Exercicio02\Exercicio02\obj\Debug\net8.0\ref\Exercicio02.dll

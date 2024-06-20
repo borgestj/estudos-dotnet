@@ -1,0 +1,14 @@
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Debug\net8.0\ExercicioEstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Debug\net8.0\ExercicioEstruturaSequencial.AssemblyInfoInputs.cache
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Debug\net8.0\ExercicioEstruturaSequencial.AssemblyInfo.cs
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Debug\net8.0\ExercicioEstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Debug\net8.0\ExercicioEstruturaSequencial.exe
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Debug\net8.0\ExercicioEstruturaSequencial.deps.json
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Debug\net8.0\ExercicioEstruturaSequencial.runtimeconfig.json
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Debug\net8.0\ExercicioEstruturaSequencial.dll
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\bin\Debug\net8.0\ExercicioEstruturaSequencial.pdb
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Debug\net8.0\ExercicioEstruturaSequencial.dll
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Debug\net8.0\refint\ExercicioEstruturaSequencial.dll
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Debug\net8.0\ExercicioEstruturaSequencial.pdb
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Debug\net8.0\ExercicioEstruturaSequencial.genruntimeconfig.cache
+C:\estudos-dotnet\Udemy\ExercicioEstruturaSequencial\ExercicioEstruturaSequencial\obj\Debug\net8.0\ref\ExercicioEstruturaSequencial.dll
